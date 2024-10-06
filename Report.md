@@ -6,7 +6,7 @@
 
 ****Contributors:**
 **
-@Oluwakamiye, @Sapi, @Mojoyin, @Berkay, @Jumblosu, @Josiah, @Ifeoluwa01, @Oluwatosin.
+@Oluwakamiye, @Sapi, @Mojoyin, @Berkay, @Ifeoluwa01.
 
 Code link: <https://github.com/hberkayc/HackBio_Stage4>
 
