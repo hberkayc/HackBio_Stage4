@@ -2,8 +2,10 @@
 
 **Machine Learning modeling and Biomarker Discovery in Gliomas Based on Methylation Data: Insights into IDH Status Classification**
 
-**Contributors:**
 
+
+****Contributors:**
+**
 @Oluwakamiye, @Sapi, @Mojoyin, @Berkay, @Jumblosu, @Josiah, @Ifeoluwa01, @Oluwatosin.
 
 Code link: <https://github.com/hberkayc/HackBio_Stage4>
